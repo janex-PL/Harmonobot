@@ -22,11 +22,11 @@
         MajorTenth,
         PerfectEleventh,
         DoubleTritone,
-        PerfectTwelth,
+        PerfectTwelfth,
         MinorThirteenth,
         MajorThirteenth,
-        MinorFourtenth,
+        MinorFourteenth,
         MajorFourteenth,
-        PerfectFiftenth
+        PerfectFifteenth
     }
 }
